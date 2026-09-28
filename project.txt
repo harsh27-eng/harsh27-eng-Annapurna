@@ -1,11 +1,11 @@
 PROJECT ANNAPURNA
 SURPLUS FOOD REDISTRIBUTION MANAGEMENT SYSTEM
 
-Version: 1.0
+Version: 1.1
 
 Objective:
 Connect food donors with NGOs so that surplus food can be
-redistributed instead of being wasted.
+redistributed safely and efficiently.
 
 Features:
 1. Donor Registration/Login
@@ -13,6 +13,14 @@ Features:
 3. Add Surplus Food
 4. View Available Donations
 5. NGO Claims Donation
+6. Automated Food Expiry Tracking
+7. Expired Donations are Automatically Cancelled
+
+Food Safety:
+- Store the time when food was cooked
+- Calculate the safe consumption period
+- Monitor food expiry
+- Cancel donations that exceed the safe consumption window
 
 Main Users:
 - Food Donor
