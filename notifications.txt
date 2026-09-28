@@ -1,0 +1,12 @@
+PROJECT ANNAPURNA
+REAL-TIME NOTIFICATION MODULE
+
+Version: 2.0
+
+Notification Features:
+
+1. Notify NGOs when food is available.
+2. Notify the donor when an NGO claims the donation.
+3. Notify volunteers when a pickup is assigned.
+4. Notify users about donation status.
+5. Send SMS notifications for important updates.
