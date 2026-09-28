@@ -1,0 +1,17 @@
+PROJECT ANNAPURNA
+SMART MATCHING MODULE
+
+Version: 2.0
+
+Geo-Location Matching:
+
+1. Obtain the donor's location.
+2. Obtain locations of registered NGOs.
+3. Calculate the distance between the donor and NGOs.
+4. Identify nearby NGOs.
+5. Notify suitable NGOs about the available food.
+6. Allow an NGO to claim the donation.
+
+Purpose:
+To reduce the time required to find a suitable NGO
+for collecting surplus food.
