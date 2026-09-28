@@ -1,0 +1,19 @@
+PROJECT ANNAPURNA
+SURPLUS FOOD REDISTRIBUTION MANAGEMENT SYSTEM
+
+Version: 1.0
+
+Objective:
+Connect food donors with NGOs so that surplus food can be
+redistributed instead of being wasted.
+
+Features:
+1. Donor Registration/Login
+2. NGO Registration/Login
+3. Add Surplus Food
+4. View Available Donations
+5. NGO Claims Donation
+
+Main Users:
+- Food Donor
+- NGO
